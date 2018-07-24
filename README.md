@@ -5,4 +5,4 @@ I assume that you familiar with aready know how to create a javafx application.
 For this to work ensure you have added the following jar files to the library;
 - Mysql-connector-jar; to connect to the mysql database
 - iText jar; to provide classes and interfaces for pdf generation
-The project contains two major classes
+The project contains one java class
